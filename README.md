@@ -1,4 +1,4 @@
-# WhatsApp Baileys
+# Baileys-Paxton Huanxin- WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
   <img src="https://litter.catbox.moe/p7704e.jpg" alt="Thumbnail" />
