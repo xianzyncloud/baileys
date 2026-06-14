@@ -1,7 +1,7 @@
 # Baileys-Pàxton Huànxin Bàileys- WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://c.termai.cc/i179/FAgny.jpg" width="300" alt="Baileys By Lanz0fficial" />
+  <img src="https://litter.catbox.moe/p7704e.jpg" width="300" alt="Baileys By Lanz0fficial" />
 </p>
 
 <p align="center">
