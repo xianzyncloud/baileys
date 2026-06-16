@@ -42,9 +42,9 @@ npm install paxtonxnana/baileys
 
 ```
 
-## Read In Lower Gys Must Use our Credited
+## Read In Lower Gys Must Use our Credited English 
 
-```Bantu Viral Baileys Ke Dalam Sc Kalen
-Jangan Lupa Kasih Credits Di Sc Kalian Semua Pake Baileys ini ya🗿
+Help Baileys Go Viral on SC Kalen
+Don't forget to give credit to all of you who use Baileys in SC, okay?
 
 ```
