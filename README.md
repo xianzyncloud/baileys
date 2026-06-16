@@ -1,12 +1,12 @@
 # Baileys-Pàxton Huànxin Bàileys- WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://litter.catbox.moe/p7704e.jpg" width="300" alt="Baileys By Lanz0fficial" />
+  <img src="https://litter.catbox.moe/p7704e.jpg" width="300" alt="Baileys By Pàxton Huànxin" />
 </p>
 
 <p align="center">
   <a href="https://github.com/LanzNotDev/baileys"><img src="https://img.shields.io/github/stars/LanzNotDev/baileys?style=for-the-badge" alt="Stars"></a>
-  <a href="https://www.npmjs.com/package/@vinzzofficial/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
+  <a href="https://www.npmjs.com/package/@paxtonxnana/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
 ---
