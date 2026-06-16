@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LanzNotDev/baileys"><img src="https://img.shields.io/github/stars/LanzNotDev/baileys?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/xianzyncloud/baileys"><img src="https://img.shields.io/github/stars/xianzynclound/baileys?style=for-the-badge" alt="Stars"></a>
   <a href="https://www.npmjs.com/package/@paxtonxnana/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
