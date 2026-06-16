@@ -34,3 +34,10 @@ npm install paxtonxnana/baileys
 
 ```
 
+
+## Credits Official Website 
+
+```Jangan Lupa Kasih Credits Di Sc Kalian Semua Pake Baileys Ini 
+viral baileys https://paxtonhuanxin-developer.vercel.app/
+
+```
