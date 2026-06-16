@@ -38,6 +38,13 @@ npm install paxtonxnana/baileys
 ## Official Website 
 
 ```Bantu Viral Baileys Ke Dalam Sc Kalen
-Jangan Lupa Kasih Credits Di Sc Kalian Semua Pake Baileys Ini https://paxtonhuanxin-developer.vercel.app/
+ https://paxtonhuanxin-developer.vercel.app/
+
+```
+
+## Read In Lower Gys Must Use our Credited
+
+```Bantu Viral Baileys Ke Dalam Sc Kalen
+Jangan Lupa Kasih Credits Di Sc Kalian Semua Pake Baileys ini ya🗿
 
 ```
